@@ -7,7 +7,7 @@ from threading import Thread, Lock
 
 typed_string = ''
 trigger = False
-target_value = "Spy_mode"
+target_value = 's_code' #your special code goes here
 trigger_lock = Lock()
 
 def toggle_trigger():
