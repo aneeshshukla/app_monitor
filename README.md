@@ -19,10 +19,15 @@ This app stores the logged app as a .txt file in your PC. No internet is require
 ## 🕵️ Stealth mode
 For some master control, you can temporally pause the app monitoring. Privacy in your hands
 ## ☄️ Advantages of *App Monitor*
-1. Hassle free setup
-2. Open Source
-3. Completely FREE
-4. Privacy
-5. No internet required
+1. Light weight
+2. Hassle free setup
+3. Open Source
+4. Completely FREE
+5. Privacy
+6. No internet required
 
 ## Screenshots
+![task manager](https://github.com/aneeshshukla/app_tracker/blob/main/docs/images/task%20manager.png)
+<- System Load
+![notepad](https://github.com/aneeshshukla/app_tracker/blob/main/docs/images/notepad.png)
+<- App data logged
