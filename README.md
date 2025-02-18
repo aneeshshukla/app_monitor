@@ -13,6 +13,10 @@ It means even if you can't see it running, it is running!<br/>~Best defination t
 - Windows Search
 - Task Switching
 <br/>[See screenshots](#screenshots)
+## ⚡️ Read the instruction here
+Rread the instructions below.
+
+<a href="/docs/INSTRUCTION.md" target="_blank"><img src="https://user-images.githubusercontent.com/42001064/196041925-64f81f75-8bee-42ac-a234-a93339bc8cdc.png" alt="Instructions" width="180px" ></a>
 ## 🔏 Privacy
 Your data is yours, we have no right over it.
 This app stores the logged app as a .txt file in your PC. No internet is required to use this app and hence it is not uploaded anywhere on internet.
