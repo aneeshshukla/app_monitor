@@ -17,7 +17,7 @@ It means even if you can't see it running, it is running!<br/>~Best defination t
 Your data is yours, we have no right over it.
 This app stores the logged app as a .txt file in your PC. No internet is required to use this app and hence it is not uploaded anywhere on internet.
 ## 🕵️ Stealth mode
-For some master control, you can temporally pause the app monitoring. Privacy in your hands
+For some master control, you can temporarily pause the app monitoring. Privacy in your hands
 ## ☄️ Advantages of *App Monitor*
 1. Light weight
 2. Hassle free setup
