@@ -19,7 +19,14 @@ ___
   1. Open run dialog by pressing `Win` + `R` on your keyboard.
   2. Write `cmd` and press `Enter` key on your keyboard. This will open Command Prompt.
   3. Write command `pip install pynput`
-  4. Rest of the packages should be preinstalled, else you need to install them too like in step 3.
+  4. Rest of the packages should be pre-installed, else you need to install them too like in step 3.
+     
      List of required packages:
-       1. 
+       - `time`
+       - `datetime`
+       - `win32gui`
+       - `os`
+       - `pynput`
+       - `threading`
 
+  
