@@ -7,7 +7,7 @@ Before using App Tracker, you'll need to install Python.
 - [Here is a link to the Python downloads page.](https://www.python.org/downloads)  
 - [Here is a helpful guide to installing Python on various operating systems.](https://wiki.python.org/moin/BeginnersGuide/Download)
 
-*Later in this guide, you will use the Package Installer for Python (pip), which may require you to add Python to your system PATH.<br/>(See image below for reference)* 
+*Later in this guide, you will use the Package Installer for Python (pip), which may require you to add Python to your system PATH.<br/>(See image below for reference)* <br/>
 ![win_installer](https://github.com/user-attachments/assets/f49fde3b-f940-41d5-a1ee-4fdad125a611)<br/>
 *Note: Image shown maybe of a older version but you will have the same option for your version.*
 
