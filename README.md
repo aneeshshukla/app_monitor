@@ -14,7 +14,7 @@ It means even if you can't see it running, it is running!<br/>~Best defination t
 - Task Switching
 <br/>[See screenshots](#screenshots)
 ## ⚡️ Read the instruction here
-Rread the instructions below.
+Read the instructions below.
 
 <a href="/docs/INSTRUCTION.md" target="_blank"><img src="https://user-images.githubusercontent.com/42001064/196041925-64f81f75-8bee-42ac-a234-a93339bc8cdc.png" alt="Instructions" width="180px" ></a>
 ## 🔏 Privacy
