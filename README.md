@@ -32,6 +32,9 @@ For some master control, you can temporarily pause the app monitoring. Privacy i
 
 ## Screenshots
 ![task manager](https://github.com/aneeshshukla/app_tracker/blob/main/docs/images/task%20manager.png)
-<- System Load
+
+☝️ System Load
+
 ![notepad](https://github.com/aneeshshukla/app_tracker/blob/main/docs/images/notepad.png)
-<- App data logged
+
+☝️ App data logged
