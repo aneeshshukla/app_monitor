@@ -6,20 +6,26 @@
 Before using App Tracker, you'll need to install Python.  
 - [Here is a link to the Python downloads page.](https://www.python.org/downloads)  
 - [Here is a helpful guide to installing Python on various operating systems.](https://wiki.python.org/moin/BeginnersGuide/Download)
+> [!TIP]
+> *Later in this guide, you will use the Package Installer for Python (pip), which may require you to add Python to your system PATH.<br/>(See image below for reference)*
+<br/>
 
-*Later in this guide, you will use the Package Installer for Python (pip), which may require you to add Python to your system PATH.<br/>(See image below for reference)* <br/>
 ![win_installer](https://github.com/user-attachments/assets/f49fde3b-f940-41d5-a1ee-4fdad125a611)<br/>
-*Note: Image shown maybe of a older version but you will have the same option for your version.*
+> [!NOTE]
+> Image shown maybe of a older version but you will have the same option for your version.
 
 ___
 <br>
 
-## 2. Install Python Packages using PIP
+## 2. Install Python Packages using *pip*
 
   1. Open run dialog by pressing `Win` + `R` on your keyboard.
   2. Write `cmd` and press `Enter` key on your keyboard. This will open Command Prompt.
-  3. Write command `pip install pynput`
-  4. Rest of the packages should be pre-installed, else you need to install them too like in step 3.
+  3. Write command
+     ```
+     pip install pynput
+     ```
+  5. Rest of the packages should be pre-installed, else you need to install them too like in step 3.
      
      List of required packages:
        - `time`
@@ -28,5 +34,7 @@ ___
        - `os`
        - `pynput`
        - `threading`
-
+## 3. Download *App_Monitor* file
+  
+  1. Download file here -> <a href='https://github.com/aneeshshukla/app_monitor/blob/main/app_tracker%20(no%20console%20app).pyw' download>Download</a>
   
