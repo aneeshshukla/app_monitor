@@ -38,3 +38,27 @@ For some master control, you can temporarily pause the app monitoring. Privacy i
 ![notepad](https://github.com/aneeshshukla/app_tracker/blob/main/docs/images/notepad.png)
 
 ☝️ App data logged
+
+## 📄 License
+<!--- If you're not sure which open license to use see https://choosealicense.com/--->
+
+App Monitor is licensed under the <ins>*GNU General Public License v3.0*</ins> "New" or "Revised" License.  
+[View Here.](https://github.com/aneeshshukla/app_monitor/blob/main/LICENSE)
+
+| Permissions | Conditions | Limitations
+| --- | --- | ---
+🟢 Commercial use | 🔵 Disclose source | 🔴 Liability
+🟢 Distribution   | 🔵 License and copyright notice  | 🔴 Warranty
+🟢 Modification  |  🔵 Same license
+🟢 Patent use  |  🔵State changes
+🟢 Private use
+
+## Contribute
+
+All contributions from the open-source community, individuals, and partners are welcomed. Our achievement is a result of your active participation.
+
+[Contributing guidelines](docs/CONTRIBUTING.md)
+
+[Code of conduct](CODE_OF_CONDUCT.md)
+
+[LEARN.md](LEARN.md)
