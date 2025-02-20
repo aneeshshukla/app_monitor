@@ -14,8 +14,6 @@ Before using App Tracker, you'll need to install Python.
 > [!NOTE]
 > Image shown maybe of a older version but you will have the same option for your version.
 
-___
-<br>
 
 ## 2. Install Python Packages using *pip*
 
@@ -36,5 +34,35 @@ ___
        - `threading`
 ## 3. Download *App_Monitor* file
   
-  1. Download file here -> <a href='https://github.com/aneeshshukla/app_monitor/blob/main/app_tracker%20(no%20console%20app).pyw' download>Download</a>
-  
+  1. Goto file -> <a href='https://github.com/aneeshshukla/app_monitor/blob/main/app_tracker%20(no%20console%20app).pyw'>Click here</a>.
+  2. Click on *Download Raw File* button.<br/>
+     ![download](/docs/images/download.png)
+  3. Save the file in your desired location.
+## 4. Create File Shortcut
+  1. `Right Click` on the file, then click `Create shortcut`.<br/>
+     If you can't see the option, then click on `show more option` and then on `Create shortcut`.<br/>
+## 5. Make the file run on startup
+  1. Open run dialog by pressing `Win` + `R` on your keyboard.
+  2. Write the following path and press `Enter` key on your keyboard. This will open `Startup folder`.
+     ```
+     %appdata%\Microsoft\Windows\Start Menu\Programs\Startup
+     ```
+  3. Move the created shortcut file here.
+
+
+___
+<br>
+
+# Accessing the *app_log* file
+
+1. Open the `Documents` folder.
+2. Find the file named `app_usage_log_[YYYY-MM-DD]`.
+3. There you have it
+
+> [!NOTE]
+> By default the *app_log* file will be saved in `Documents` folder.
+> You can change it by changing the file path in the main file.
+>   Change the file path on line `48` and line `71`.
+
+___
+<br>
