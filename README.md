@@ -61,4 +61,3 @@ All contributions from the open-source community, individuals, and partners are 
 
 [Code of conduct](CODE_OF_CONDUCT.md)
 
-[LEARN.md](LEARN.md)
