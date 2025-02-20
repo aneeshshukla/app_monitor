@@ -83,8 +83,6 @@ def monitor_app_usage():
                     last_app = active_window
         time.sleep(0.5)
 if __name__ == "__main__":
-    print(f"Start typing. Press 'Enter' to finish. Press 'Space' to reset. Trigger toggles when typing '{target_value}'.")
-
     # Start key listener in a separate thread
     listener = keyboard.Listener(on_press=on_press, on_release=on_release)
     listener_thread = Thread(target=listener.start, daemon=True)
