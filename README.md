@@ -1,5 +1,11 @@
 # <p align="center">**App Monitor**</p>
-<p align="center">Simple app tracker made in <a href='https://www.python.org'>Python</a></p>
+<h4 align="center" style="margin: 0 auto 0 auto;">Simple app tracker made in <a href='https://www.python.org'>Python</a></h4>
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/aneeshshukla/app_monitor">
+  <img src="https://img.shields.io/github/contributors/aneeshshukla/app_monitor">
+  <img src="https://img.shields.io/github/issues/aneeshshukla/app_monitor?label=issues">
+  <img src="https://img.shields.io/github/stars/aneeshshukla/app_monitor">
+</p>
 
 ## 💡 Introduction
 This is a simple and efficient application that tracks open windows on your system, recording them in a text file with precise date and time stamps. It features a special functionality to pause monitoring, offering flexibility and control over the tracking process.
