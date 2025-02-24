@@ -86,7 +86,7 @@ func Run(content embed.FS) {
 			// Validate the config file exists
 			if configFileArg != "" {
 				if _, err := os.Stat(variable.ConfigFile); err != nil {
-					log.Fatalf("Error: While reading config file '%s' from arguement : %v", configFileArg, err)
+					log.Fatalf("Error: While reading config file '%s' from argument : %v", configFileArg, err)
 				} else {
 					variable.ConfigFile = configFileArg
 				}
