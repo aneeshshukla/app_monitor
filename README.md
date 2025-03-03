@@ -4,7 +4,10 @@
   <img src="https://img.shields.io/github/last-commit/aneeshshukla/app_monitor">
   <img src="https://img.shields.io/github/contributors/aneeshshukla/app_monitor">
   <img src="https://img.shields.io/github/issues/aneeshshukla/app_monitor?label=issues">
-  <img src="https://img.shields.io/github/stars/aneeshshukla/app_monitor">
+  <img src="https://img.shields.io/github/stars/aneeshshukla/app_monitor"> <br>
+  <img src="https://img.shields.io/badge/contributions-welcome-brightgreen?logo=github">
+  <!-- img src="https://img.shields.io/website?url=https%3A%2F%2Fhopfpscotch.io&logo=hoppscotch" -->
+  <!-- img src="https://img.shields.io/badge/chat-Discord-7289DA?logo=discord&logoColor=white" -->
 </p>
 
 ## 💡 Introduction
